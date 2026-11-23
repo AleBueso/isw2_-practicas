@@ -68,3 +68,5 @@ C4Container
 
 1. **ADR-001 · Persistencia:** H2 ahora → SQL Server en producción, a través de JPA.
 2. **ADR-002 · Autenticación:** un solo usuario ADMIN con sesión y CSRF, en lugar de tokens JWT.
+
+Token de propiedad: LEARN-CAP-1E72416E
